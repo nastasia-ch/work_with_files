@@ -1,0 +1,18 @@
+{
+  "nameOfCompany": "Some company name",
+  "address": "Some address",
+  "phoneNumber": "89000000000",
+  "numberOfEmployees": 38,
+  "numberOfDepartments": 7,
+  "productTypes": ["Products","Works","Services"],
+  "structure": {
+    "firstDepartment": 3,
+    "secondDepartment": 6,
+    "thirdDepartment": 5,
+    "forthDepartment": 7,
+    "fifthDepartment": 11,
+    "sixthDepartment": 4,
+    "seventhDepartment": 2
+  },
+  "doesCompanyHaveTaxBenefits": true
+}
